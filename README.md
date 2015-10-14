@@ -2,7 +2,7 @@
 
 ## What was used to create this
 
-This was created using HTML5 and JQuery
+This was created using HTML5, CSS3 and JQuery
 
 ## What does it do
 
